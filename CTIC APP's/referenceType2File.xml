@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5b06a89a86565b543b7388c42573c9a8</guid>
+    <fileName>Assets/UI Components/Scripts/AnimatorDisableHelper.cs</fileName>
+    <timeStamp>2018-09-29T18:56:16+05:30</timeStamp>
+    <typeFullName>
+      <string>AnimatorDisableHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a8d0a97d422b2c4bb48fbfcb4163562</guid>
+    <fileName>Assets/UI Components/Scripts/ChatUIManager.cs</fileName>
+    <timeStamp>2018-09-29T18:55:24+05:30</timeStamp>
+    <typeFullName>
+      <string>ChatUIManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>996b7774dfbf67844abf75e5f607c849</guid>
+    <fileName>Assets/UI Components/Scripts/Credentials.cs</fileName>
+    <timeStamp>2019-03-14T05:00:22.1978815+05:30</timeStamp>
+    <typeFullName>
+      <string>Credentials</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c65c7917835d8a04b94c8b906234b09e</guid>
+    <fileName>Assets/UI Components/Scripts/CustomInputField.cs</fileName>
+    <timeStamp>2018-09-29T18:57:07+05:30</timeStamp>
+    <typeFullName>
+      <string>CustomInputField</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c4238e3609be7d74895e623abdf80271</guid>
+    <fileName>Assets/UI Components/Scripts/ExitToSystem.cs</fileName>
+    <timeStamp>2018-09-29T18:57:04+05:30</timeStamp>
+    <typeFullName>
+      <string>ExitToSystem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73df9a454df648e4ba29c9a82d937e91</guid>
+    <fileName>Assets/UI Components/Scripts/ListContentSizeFix.cs</fileName>
+    <timeStamp>2019-03-14T02:50:47.2151779+05:30</timeStamp>
+    <typeFullName>
+      <string>ListContentSizeFix</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cbad0476809a3564eab1df4d29f67464</guid>
+    <fileName>Assets/UI Components/Scripts/NewsPanelManager.cs</fileName>
+    <timeStamp>2018-09-29T18:57:14+05:30</timeStamp>
+    <typeFullName>
+      <string>NewsPanelManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae81a9416f294694e895bf25c04c0391</guid>
+    <fileName>Assets/UI Components/Scripts/OpenCamera.cs</fileName>
+    <timeStamp>2019-03-13T14:46:12.6311123+05:30</timeStamp>
+    <typeFullName>
+      <string>OpenCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b225069ce5d3cb458a6d053e051711f</guid>
+    <fileName>Assets/UI Components/Scripts/SplashScreenManager.cs</fileName>
+    <timeStamp>2018-09-29T18:56:30+05:30</timeStamp>
+    <typeFullName>
+      <string>SplashScreenManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5d62b78f0ca422242b41fac4fa046231</guid>
+    <fileName>Assets/UI Components/Scripts/TooltipManager.cs</fileName>
+    <timeStamp>2018-09-29T18:56:18+05:30</timeStamp>
+    <typeFullName>
+      <string>TooltipManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b7968b9508639bd4a9b7ebe17b3c10d6</guid>
+    <fileName>Assets/UI Components/Scripts/TopPanelButton.cs</fileName>
+    <timeStamp>2018-09-29T18:56:57+05:30</timeStamp>
+    <typeFullName>
+      <string>TopPanelButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>de6d77a07feba43489f148de4ba38d47</guid>
+    <fileName>Assets/UI Components/Scripts/TopPanelManager.cs</fileName>
+    <timeStamp>2019-03-14T01:44:39.3342281+05:30</timeStamp>
+    <typeFullName>
+      <string>TopPanelManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>469c4b185cf709b4b9c16cfe18701e12</guid>
+    <fileName>Assets/UI Components/Scripts/UIElementSound.cs</fileName>
+    <timeStamp>2018-09-29T18:56:02+05:30</timeStamp>
+    <typeFullName>
+      <string>UIElementSound</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06a6d43752a6a6440822e730bd68070c</guid>
+    <fileName>Assets/Vuforia/Editor/Scripts/OpenSourceInitializer.cs</fileName>
+    <timeStamp>2019-01-04T10:55:14+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0768a105a9bd48409a689214808185f</guid>
+    <fileName>Assets/Vuforia/Scripts/BoundingBoxRenderer.cs</fileName>
+    <timeStamp>2019-01-04T10:55:14+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c47f92041efbb4b429a4eafca855ebe3</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs</fileName>
+    <timeStamp>2019-01-04T10:55:14+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fabb808b641aeac42aaabc701a5b885e</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultModelRecoEventHandler.cs</fileName>
+    <timeStamp>2019-01-04T10:55:14+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a917f0af64a6423093132dab321c15f</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs</fileName>
+    <timeStamp>2019-01-04T10:55:14+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
